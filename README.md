@@ -1,2 +1,2 @@
 # Carculador-De-Propina
-Software para calcular la propina que debe cancelar el usuario
+Software para que permite calcular la propina 
